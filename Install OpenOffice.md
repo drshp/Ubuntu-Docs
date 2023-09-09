@@ -17,9 +17,9 @@ https://www.openoffice.org/download/index.html
 3. Type **tar -xvf Apache_OpenOffice_4.1.14_Linux_x86-64_install-deb_en-GB.tar.gz**  
    It will Extract the files.  
 4. Type **cd en-GB/DEBS/**  
-5. Type **sudo dpkg -i *.deb**  
+5. Type **sudo dpkg -i \*.deb**  
    It will install the Packages on the system  
 6. Desktop integration:  
     Type **cd desktop-integration/**  
-    Type **sudo dpkg -i *.deb**  
+    Type **sudo dpkg -i \*.deb**  
     It installs the icons of open office
