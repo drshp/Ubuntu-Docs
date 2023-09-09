@@ -21,5 +21,7 @@ Setting Up Open-Office
    It will install the Packages on the system
 6. Desktop integration:
     Type cd desktop-integration/
+   
     Type sudo dpkg -i *.deb
-   It installs the icons of open office
+   
+    It installs the icons of open office
