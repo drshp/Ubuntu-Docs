@@ -22,4 +22,4 @@ https://www.openoffice.org/download/index.html
 6. Desktop integration:  
     Type **cd desktop-integration/**  
     Type **sudo dpkg -i \*.deb**  
-    It installs the icons of open office(in Layman's term)
+    It installs the icons of open office ***(in Layman's term)***
