@@ -1,10 +1,10 @@
 
 Installing open office in Ubuntu
 
-First uninstall libre office using the following command
+First uninstall libre office using the following command: \
 sudo apt remove libreoffice-base-core libreoffice-impress libreoffice-calc libreoffice-math libreoffice-common libreoffice-ogltrans libreoffice-core libreoffice-pdfimport libreoffice-draw libreoffice-style-breeze libreoffice-gnome libreoffice-style-colibre libreoffice-gtk3 libreoffice-style-elementary libreoffice-help-common libreoffice-style-tango libreoffice-help-en-us libreoffice-writer
 
-Then Download Apache OpenOffice from this link:
+Then Download Apache OpenOffice from this link:\
 https://www.openoffice.org/download/index.html
 
 Note:
